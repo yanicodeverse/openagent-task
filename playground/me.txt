@@ -1,5 +1,0 @@
-{{#user}}
-My name is Parinay Pandey.
-Here are my skills : HTML, CSS, Javascript, Reactjs. 
-My email id is parinayjoy@gmail.com.
-{{/user}}
